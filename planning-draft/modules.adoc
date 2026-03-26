@@ -1,0 +1,32 @@
+
+== Common Features
+* UI Props
+* UI Specification
+* REST Connector
+* Configuration Loader
+* Context holder
+* Library Wrapper
+
+== Common Libraries
+* mmcore : Common Library Install & re-export, zustand, axios, i18next, react-i18next, react
+** Common Library for mFront and mapend
+* mmcore-ui : Property Specification, UI Common Things, Common prefix UI, Web Prefix, WI, App Prefix AI
+** Common UI Library for mFront and mapend
+
+== mFront
+* mfront : Main library which deal everything
+* mfront-libs-wrap : Add all the dependent libraries and re-export
+* mfront-ui : UI Interface and Specification
+* mfront-default-ui : Default UI Implementation
+* mfront-cli : Command line tool for create-mfront, various commands
+* mfront-dev : Development application which is run all the dependencies and show demo
+** mFront Application Development Environment
+
+== mapend
+* mapend : Main library which deal everything
+* mapend-libs-wrap : Add all the dependent libraries and re-export
+* mapend-ui : UI Interface and Specification
+* mapend-default-ui : Default UI Implementation
+* mapend-cli : Command line tool for create-mapend, various commands
+* mapend-dev : Development application which is run all the dependencies and show demo
+** mapend Application Development Environment

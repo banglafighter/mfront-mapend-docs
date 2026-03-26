@@ -1,0 +1,26 @@
+== Common Component
+
+|===
+| Component | Web | Mobile | Props | Status | Comment
+
+|Button|Y|Y|xxxx|xxxx|xxxx
+|ButtonGroup|Y|xxxx|xxxx|xxxx|xxxx
+|InputField|Y|Y|xxxx|select, password, switch/checkbox, radio, textarea|xxxx
+|Form|Y|Y|xxxx|xxxx|xxxx
+|Row|Y|xxxx|xxxx|xxxx|xxxx
+|Column|Y|xxxx|xxxx|xxxx|xxxx
+|Container|Y|xxxx|xxxx|xxxx|xxxx
+|Card|Y|Y|xxxx|xxxx|xxxx
+|Dialog|Y|Y|xxxx|xxxx|xxxx
+|Toast|Y|Y|xxxx|xxxx|xxxx
+|Table|Y|xxxx|xxxx|xxxx|xxxx
+|Accordion|Y|Y|xxxx|xxxx|xxxx
+|Dropdown|Y|Y|xxxx|xxxx|xxxx
+|Tab|Y|Y|xxxx|xxxx|xxxx
+|Pagination|Y|N|xxxx|xxxx|xxxx
+|Loader|Y|Y|xxxx|xxxx|xxxx
+|Separator|Y|Y|xxxx|xxxx|xxxx
+|Image|Y|Y|xxxx|xxxx|xxxx
+|Skeleton|xxxx|Y|xxxx|xxxx|xxxx
+
+|===
