@@ -10,25 +10,52 @@
 == Common Libraries
 * mmcore : Common Library Install & re-export, zustand, axios, i18next, react-i18next, react
 ** Common Library for mFront and mapend
-**
+** https://github.com/banglafighter/mmcore.git
+
 * mmcore-ui : Property Specification, UI Common Things, Common prefix UI, Web Prefix, WI, App Prefix AI
 ** Common UI Library for mFront and mapend
 ** https://github.com/banglafighter/mmcore-ui
 
 == mFront
 * mfront : Main library which deal everything
+** https://github.com/banglafighter/mfront.git
+
 * mfront-libs-wrap : Add all the dependent libraries and re-export
-* mfront-ui : UI Interface and Specification
-* mfront-default-ui : Default UI Implementation
+** mFront Dependency Wrapper & Re-exporter
+** https://github.com/banglafighter/mfront-libs-wrap.git
+
+* mfront-ui : mFront UI Specifier
+** https://github.com/banglafighter/mfront-ui.git
+
+* mfront-default-ui : mFront UI Default Implementation
+** https://github.com/banglafighter/mfront-default-ui.git
+
 * mfront-cli : Command line tool for create-mfront, various commands
+** mFront Command line Interface
+** https://github.com/banglafighter/mfront-cli.git
+
 * mfront-dev : Development application which is run all the dependencies and show demo
 ** mFront Application Development Environment
+** https://github.com/banglafighter/mfront-dev.git
 
 == mapend
 * mapend : Main library which deal everything
+** https://github.com/banglafighter/mapend.git
+
 * mapend-libs-wrap : Add all the dependent libraries and re-export
-* mapend-ui : UI Interface and Specification
-* mapend-default-ui : Default UI Implementation
+** mapend Dependency Wrapper & Re-exporter
+** https://github.com/banglafighter/mapend-libs-wrap.git
+
+* mapend-ui : mapend UI Specifier
+** https://github.com/banglafighter/mapend-ui.git
+
+* mapend-default-ui : mapend UI Default Implementation
+** https://github.com/banglafighter/mapend-default-ui.git
+
 * mapend-cli : Command line tool for create-mapend, various commands
+** mapend Command line Interface
+** https://github.com/banglafighter/mapend-cli.git
+
 * mapend-dev : Development application which is run all the dependencies and show demo
 ** mapend Application Development Environment
+** https://github.com/banglafighter/mapend-dev.git
