@@ -10,8 +10,10 @@
 == Common Libraries
 * mmcore : Common Library Install & re-export, zustand, axios, i18next, react-i18next, react
 ** Common Library for mFront and mapend
+**
 * mmcore-ui : Property Specification, UI Common Things, Common prefix UI, Web Prefix, WI, App Prefix AI
 ** Common UI Library for mFront and mapend
+** https://github.com/banglafighter/mmcore-ui
 
 == mFront
 * mfront : Main library which deal everything
