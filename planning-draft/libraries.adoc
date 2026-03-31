@@ -1,0 +1,9 @@
+
+= Libraries
+
+* https://github.com/Shopify/flash-list
+* https://reactnativereusables.com/
+* https://reactnavigation.org/
+* https://rnprimitives.com/
+* https://www.nativewind.dev/
+* https://www.radix-ui.com/
