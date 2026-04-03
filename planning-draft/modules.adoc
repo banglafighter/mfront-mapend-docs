@@ -20,6 +20,9 @@
 * mfront : Main library which deal everything
 ** https://github.com/banglafighter/mfront.git
 
+* mfront-core : mFront all core shared logic and services
+** https://github.com/banglafighter/mfront-core.git
+
 * mfront-libs-wrap : Add all the dependent libraries and re-export
 ** mFront Dependency Wrapper & Re-exporter
 ** https://github.com/banglafighter/mfront-libs-wrap.git
